@@ -13,9 +13,10 @@ src/main/resources/assets/dying_server/
 ├─lang/zh-cn.json
 ├─models
 │  ├─block
+│  ├─entities <-实体模型
 │  └─item
 └─textures
-   ├─block
-   ├─entities
-   └─item
+   ├─block    <-方块贴图
+   ├─entities <-实体贴图
+   └─item     <-物品贴图
 ```
