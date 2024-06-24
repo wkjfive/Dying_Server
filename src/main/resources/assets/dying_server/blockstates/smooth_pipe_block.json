@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dying_server:block/smooth_pipe_block"
+    }
+  }
+}

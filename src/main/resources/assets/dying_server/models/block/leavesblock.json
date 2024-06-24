@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dying_server:block/leaves",
+    "up": "dying_server:block/leaves",
+    "north": "dying_server:block/leaves",
+    "east": "dying_server:block/leaves",
+    "south": "dying_server:block/leaves",
+    "west": "dying_server:block/leaves",
+    "particle": "dying_server:block/leaves"
+  },
+  "render_type": "solid"
+}

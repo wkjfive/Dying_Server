@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dying_server:block/flesh_block2",
+    "up": "dying_server:block/flesh_block2",
+    "north": "dying_server:block/flesh_block2",
+    "east": "dying_server:block/flesh_block2",
+    "south": "dying_server:block/flesh_block2",
+    "west": "dying_server:block/flesh_block2",
+    "particle": "dying_server:block/flesh_block2"
+  },
+  "render_type": "solid"
+}
